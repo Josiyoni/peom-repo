@@ -4,4 +4,6 @@ blue
 orange
 green
 white 
+indigo
 this are the colors of rainbow.
+add indigo
