@@ -5,5 +5,7 @@ orange
 green
 white 
 indigo
+additional poines
 this are the colors of rainbow.
 add indigo
+I just add ponies
